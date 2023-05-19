@@ -1,0 +1,6 @@
+*.cmd
+cp210x.ko
+cp210x.mod*
+cp210x.o
+modules.order
+Module.symvers
